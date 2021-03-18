@@ -1,1 +1,1 @@
-# terraria-autofishing
+# Terraria-AutoFishing
